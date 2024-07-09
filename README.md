@@ -8,8 +8,8 @@ O objetivo do projeto é a modelagem de um motor elétrico de corrente contínua
 ---
 
 Para isso, é necessário compreender o funcionamento do motor e a atuação de cada elemento. Quando uma tensão é aplicada, o circuito gera uma corrente, a qual relaciona-se de forma diretamente proporcional com o torque do sistema, que por sua vez age aumentando a velocidade de rotação. Desta maneira, conforme o rotor acelera, uma força contra-eletromotriz é gerada e se opõe a tensão aplicada. Eventualmente, o equilíbrio dinâmico é atingido, ou seja as contribuições positivas e negativas de tensão tornam-se comparáveis. Por fim, o torque gerado deve balancear o torque de carga, de modo a determinar a velocidade final durante a operação do motor. A Figura 1 a seguir ilustra o sistema descrito:
----
-![Imagem Ilustrativa do Circuito de Motor Elétrico de Armadaura:](https://ibb.co/ZRjHxG7)
+
+![Imagem Ilustrativa do Circuito de Motor Elétrico de Armadaura:](https://i.ibb.co/4wqspK3/Circuito-DC.png)
 
 
 ## Equacionamentos:
