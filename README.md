@@ -1,5 +1,5 @@
-
-# Overview
+# Modelagem de Motor Elétrico DC
+## Overview
 ---
 
 O objetivo do projeto é a modelagem de um motor elétrico de corrente contínua, através da implementação computacional das equações que descrevem seu comportamento. Além disso, deseja-se determinar as constantes necessárias para a aplicação do modelo e comparar os resultados obtidos com as especificações do produto utilizado como base.
