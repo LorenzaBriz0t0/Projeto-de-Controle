@@ -12,7 +12,7 @@ Para isso, é necessário compreender o funcionamento do motor e a atuação de 
 ![Imagem Ilustrativa do Circuito de Motor Elétrico de Armadaura:](https://i.ibb.co/4wqspK3/Circuito-DC.png)
 
 
-## Equacionamentos:
+## Equacionamento:
 
 Primeiramente, aplica-se a Lei de Kirchhoff ao circuito apresentada na Figura 1, de modo a garantir que a soma das tensões na malha fechada seja nula. 
 
