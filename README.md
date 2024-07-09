@@ -94,7 +94,7 @@ $$\eta_{mec} = \frac{P_mec}{/P_el} $$
  - [Modelagem de Motores DC - Saulo da Paz Almeida](https://doc-00-1g-prod-02-apps-viewer.googleusercontent.com/viewer2/prod-02/pdf/usn95j7fpmmicbpeidtbnds409f01978/vollffg3qc2gsr4javi2umpb9saprvbo/1720517475000/3/108605637848060273413/APznzaZReAMit9l5ZMsInqhtCcwvp5m348bI6VeVC_s1GWayIXZouR3uNhTWV6tcO8NINWuuGpwrnwjaMpaQTtZW9AfPXnB4FeyQlTZL1AqjdAZIUarE0CBHmp8CHVEmSYCX_x-7QZTX4e5APw0HCbgzbPT35QerKwTdWFYyxlXud6fpLScMosfx98izQ97gAy3z5zMSz2vIYlxXmpUh6ZP87fOAyj_6VDss9IablygkxAgm_pNQkvX3p2oyEIAC6MO0-ph6hetW-C8zld_-9tMxlfP7htOKobXQsO_3r84XbkIGyS4lSPO65jOFBlXGcJ2uXCWy12aiBOSwhHMe1OpZZZ13kkfKgozsix0aQwy_h4VeUDx6FM-OuSirnHKXFQWTv1BqV29QCVyuWbVHNTPEB7MoaxiWdCQQkxyUEgZQrF9kbUGwzc8=?authuser=0&nonce=asnmgp77mrqta&user=108605637848060273413&hash=nscmvshi28oabt8f8al7ve4s64b13s35)
  - Bolton, William. Mechatronics: electronic control systems in mechanical and electrical
 engineering. Pearson Education, 2003.
- - [Maxon UAV propulsion systems](https://www.maxongroup.net.au/medias/sys_master/root/8930376351774/210827-Brosch-UAV-2021-UG-PRINT.pdf . Acesso em 1 de junho de 2024.)
+ - Maxon UAV propulsion systems(https://www.maxongroup.net.au/medias/sys_master/root/8930376351774/210827-Brosch-UAV-2021-UG-PRINT.pdf . Acesso em 1 de junho de 2024.)
  - OGATA, K. Engenharia de Controle Moderno. 5. ed. São Paulo: Pearson, 2010.
 
  ## Autores
