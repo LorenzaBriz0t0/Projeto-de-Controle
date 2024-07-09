@@ -106,8 +106,8 @@ engineering. Pearson Education, 2003.
 
 ### SAA0160 - Sistemas de Controle de Aeronaves
 ## Docentes
-Glauco Augusto de Paula Caurin
-Saulo da Paz Almeida
+- Glauco Augusto de Paula Caurin
+- Saulo da Paz Almeida
 
 
 
