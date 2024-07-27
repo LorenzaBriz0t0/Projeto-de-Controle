@@ -1,4 +1,4 @@
-```Matlab
+``` matlab
 clc
 clear
 close all
