@@ -1,4 +1,4 @@
-
+```matlab
 clc
 clear
 close all
@@ -138,7 +138,7 @@ figure(2)
 lsim(model1,[Va1 tau1], time1,cor4)
 legend('Fornecedor','Correção de Unidades')
 set(findall(gcf,'type','line'),'Linewidth',2);
-
+```
 
 
 
